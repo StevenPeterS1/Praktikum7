@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Mahasiswa</title>
+    <link>http://www.praktikum.com/maranatha</link>
+    <description>Isi detail data mahasiswa</description>
+    <item>
+      <nrp>1</nrp>
+      <nama>a</nama>
+      <foto>1.png</foto>
+      <prodi>s</prodi>
+      <fakultas>d</fakultas>
+      <universitas>f</universitas>
+    </item>
+    <item>
+      <nrp>18</nrp>
+      <nama>Salim</nama>
+      <foto>18.png</foto>
+      <prodi>Sipil</prodi>
+      <fakultas>Teknik</fakultas>
+      <universitas>Maranatha</universitas>
+    </item>
+    <item>
+      <nrp>1872008</nrp>
+      <nama>Juan David</nama>
+      <foto>juan.png</foto>
+      <prodi>Manajemen</prodi>
+      <fakultas>Ekonomi</fakultas>
+      <universitas>Parahyangan</universitas>
+    </item>
+    <item>
+      <nrp>1872019</nrp>
+      <nama>Ryan Nathaniel</nama>
+      <foto>1872019.png</foto>
+      <prodi>Sastra Informatika</prodi>
+      <fakultas>Ekonomi</fakultas>
+      <universitas>Universitas Indonesia</universitas>
+    </item>
+    <item>
+      <nrp>1872042</nrp>
+      <nama>Steven Nathaniel</nama>
+      <foto>1872042.png</foto>
+      <prodi>Manajemen</prodi>
+      <fakultas>Hukum</fakultas>
+      <universitas>Universitas Indonesia</universitas>
+    </item>
+    <item>
+      <nrp>1872047</nrp>
+      <nama>Stepin</nama>
+      <foto>steven.png</foto>
+      <prodi>Teknik Sistem </prodi>
+      <fakultas>Hukum</fakultas>
+      <universitas>Universitas Indonesia</universitas>
+    </item>
+    <item>
+      <nrp>1872058</nrp>
+      <nama>Aldrich Sancho</nama>
+      <foto>aldrich.png</foto>
+      <prodi>Teknik Informatika</prodi>
+      <fakultas>IT</fakultas>
+      <universitas>Maranatha</universitas>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,42 @@
+<http://www.praktikum.com/maranatha/1> <http://www.praktikum.com/maranatha#hasnama> "a" .
+<http://www.praktikum.com/maranatha/1> <http://www.praktikum.com/maranatha#hasfoto> "1.png" .
+<http://www.praktikum.com/maranatha/1> <http://www.praktikum.com/maranatha#hasprodi> "s" .
+<http://www.praktikum.com/maranatha/1> <http://www.praktikum.com/maranatha#hasfakultas> "d" .
+<http://www.praktikum.com/maranatha/1> <http://www.praktikum.com/maranatha#hasuniversitas> "f" .
+
+<http://www.praktikum.com/maranatha/18> <http://www.praktikum.com/maranatha#hasnama> "Salim" .
+<http://www.praktikum.com/maranatha/18> <http://www.praktikum.com/maranatha#hasfoto> "18.png" .
+<http://www.praktikum.com/maranatha/18> <http://www.praktikum.com/maranatha#hasprodi> "Sipil" .
+<http://www.praktikum.com/maranatha/18> <http://www.praktikum.com/maranatha#hasfakultas> "Teknik" .
+<http://www.praktikum.com/maranatha/18> <http://www.praktikum.com/maranatha#hasuniversitas> "Maranatha" .
+
+<http://www.praktikum.com/maranatha/1872008> <http://www.praktikum.com/maranatha#hasnama> "Juan David" .
+<http://www.praktikum.com/maranatha/1872008> <http://www.praktikum.com/maranatha#hasfoto> "juan.png" .
+<http://www.praktikum.com/maranatha/1872008> <http://www.praktikum.com/maranatha#hasprodi> "Manajemen" .
+<http://www.praktikum.com/maranatha/1872008> <http://www.praktikum.com/maranatha#hasfakultas> "Ekonomi" .
+<http://www.praktikum.com/maranatha/1872008> <http://www.praktikum.com/maranatha#hasuniversitas> "Parahyangan" .
+
+<http://www.praktikum.com/maranatha/1872019> <http://www.praktikum.com/maranatha#hasnama> "Ryan Nathaniel" .
+<http://www.praktikum.com/maranatha/1872019> <http://www.praktikum.com/maranatha#hasfoto> "1872019.png" .
+<http://www.praktikum.com/maranatha/1872019> <http://www.praktikum.com/maranatha#hasprodi> "Sastra Informatika" .
+<http://www.praktikum.com/maranatha/1872019> <http://www.praktikum.com/maranatha#hasfakultas> "Ekonomi" .
+<http://www.praktikum.com/maranatha/1872019> <http://www.praktikum.com/maranatha#hasuniversitas> "Universitas Indonesia" .
+
+<http://www.praktikum.com/maranatha/1872042> <http://www.praktikum.com/maranatha#hasnama> "Steven Nathaniel" .
+<http://www.praktikum.com/maranatha/1872042> <http://www.praktikum.com/maranatha#hasfoto> "1872042.png" .
+<http://www.praktikum.com/maranatha/1872042> <http://www.praktikum.com/maranatha#hasprodi> "Manajemen" .
+<http://www.praktikum.com/maranatha/1872042> <http://www.praktikum.com/maranatha#hasfakultas> "Hukum" .
+<http://www.praktikum.com/maranatha/1872042> <http://www.praktikum.com/maranatha#hasuniversitas> "Universitas Indonesia" .
+
+<http://www.praktikum.com/maranatha/1872047> <http://www.praktikum.com/maranatha#hasnama> "Stepin" .
+<http://www.praktikum.com/maranatha/1872047> <http://www.praktikum.com/maranatha#hasfoto> "steven.png" .
+<http://www.praktikum.com/maranatha/1872047> <http://www.praktikum.com/maranatha#hasprodi> "Teknik Sistem " .
+<http://www.praktikum.com/maranatha/1872047> <http://www.praktikum.com/maranatha#hasfakultas> "Hukum" .
+<http://www.praktikum.com/maranatha/1872047> <http://www.praktikum.com/maranatha#hasuniversitas> "Universitas Indonesia" .
+
+<http://www.praktikum.com/maranatha/1872058> <http://www.praktikum.com/maranatha#hasnama> "Aldrich Sancho" .
+<http://www.praktikum.com/maranatha/1872058> <http://www.praktikum.com/maranatha#hasfoto> "aldrich.png" .
+<http://www.praktikum.com/maranatha/1872058> <http://www.praktikum.com/maranatha#hasprodi> "Teknik Informatika" .
+<http://www.praktikum.com/maranatha/1872058> <http://www.praktikum.com/maranatha#hasfakultas> "IT" .
+<http://www.praktikum.com/maranatha/1872058> <http://www.praktikum.com/maranatha#hasuniversitas> "Maranatha" .
+
